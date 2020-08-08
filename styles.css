@@ -1,0 +1,110 @@
+.cheesy {
+  font-size: 50px;
+  margin: 50px;
+  font-family: 'Architects Daughter', cursive;
+}
+
+.services {
+  font-family: 'Architects Daughter', cursive;
+  margin-top: 80px;
+  margin-left: 150px;
+  display: inline-block;
+}
+
+.work {
+  width: 500px;
+  display: inline-block;
+  margin-left: 308px;
+}
+
+.top {
+  background: url('images/girlblackwhite.png');
+  padding-bottom: 200px;
+}
+
+.section2 {
+  margin-top: 500px;
+}
+.section2 h2{
+  text-align: center;
+}
+.gallery_product img{
+  width: 365px;
+  height: 365px;
+}
+
+.gallery-title
+{
+    font-size: 36px;
+    color: #42B32F;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 70px;
+    margin-top: 50px;
+}
+.gallery-title:after {
+    content: "";
+    position: absolute;
+    width: 7.5%;
+    left: 46.5%;
+    height: 45px;
+    border-bottom: 1px solid #5e5e5e;
+}
+.filter-button
+{
+    font-size: 18px;
+    border: 1px solid #42B32F;
+    border-radius: 5px;
+    text-align: center;
+    color: #42B32F;
+    margin-bottom: 30px;
+
+}
+.filternav{
+  width: 100%;
+}
+.filter-button:hover
+{
+    font-size: 18px;
+    border: 1px solid #42B32F;
+    border-radius: 5px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #42B32F;
+
+}
+.btn-default:active .filter-button:active
+{
+    background-color: #42B32F;
+    color: white;
+}
+
+.port-image
+{
+    width: 100%;
+}
+
+.gallery_product
+{
+    margin-bottom: 30px;
+}
+.profilepic{
+  width: 200px;
+  margin: 50px;
+
+}
+.carousel{
+  width: 500px;
+  background-color: grey;
+  text-align: center;
+  padding: 50px;
+}
+.section3{
+  background-color: grey;
+}
+.caro-total{
+  margin-left: 35%;
+}
+.fa-star{
+  color:gold;
+}
